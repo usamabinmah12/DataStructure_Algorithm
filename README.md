@@ -1,72 +1,144 @@
-# NeetCode Solutions — @usamabinmah12
+# 🧠 LeetCode & NeetCode Solutions
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+Welcome to my **Data Structures & Algorithms** repository.
 
----
+This repository contains my solutions to problems I solve from **LeetCode** and **NeetCode**, mainly as part of my preparation for **coding interviews, competitive programming, and ICPC-style problem solving**.
 
-## What is this?
-
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+I use this repository to track my progress, revisit problems, improve my problem-solving skills, and build a consistent DSA practice habit.
 
 ---
 
-## How GitHub Sync works
+## 🚀 What You'll Find Here
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+* 🟢 LeetCode solutions
+* 🔵 NeetCode problems
+* 🧩 Data Structures & Algorithms
+* ⚡ Competitive Programming practice
+* 💡 Different approaches to solving problems
+* 📈 Continuous improvement in problem-solving
 
 ---
 
-## Repository structure
+## 🛠️ Language
 
-Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
+Most of my solutions are written in:
 
+* **C++**
+
+I may add solutions in other languages as I continue learning and experimenting.
+
+---
+
+## 📚 Topics
+
+The repository will gradually cover topics such as:
+
+* Arrays & Hashing
+* Two Pointers
+* Sliding Window
+* Stack
+* Binary Search
+* Linked List
+* Trees
+* Tries
+* Heap / Priority Queue
+* Backtracking
+* Graphs
+* Dynamic Programming
+* Greedy
+* Intervals
+* Bit Manipulation
+* Math & Geometry
+
+---
+
+## 🎯 My Goal
+
+My main goal is to become stronger at **problem solving and algorithmic thinking**.
+
+I'm working toward:
+
+> **Strong DSA fundamentals → Competitive Programming → ICPC-level problem solving → Coding Interviews**
+
+I believe consistency matters more than solving a huge number of problems quickly, so this repository is also a record of my learning journey.
+
+---
+
+## 📊 Progress
+
+This repository is continuously updated as I solve more problems.
+
+**Currently practicing:**
+
+`LeetCode` + `NeetCode` + `Competitive Programming`
+
+---
+
+## 💻 My Approach
+
+For each problem, I try to focus on:
+
+1. Understanding the problem clearly
+2. Finding the simplest possible approach
+3. Improving the time and space complexity
+4. Implementing the solution
+5. Revisiting problems when necessary
+
+I also try to understand **why** a solution works instead of simply memorizing it.
+
+---
+
+## 📁 Repository Structure
+
+Solutions are organized according to problem/topic.
+
+Example:
+
+```text
+LeetCode/
+├── Arrays & Hashing/
+├── Two Pointers/
+├── Sliding Window/
+├── Binary Search/
+├── Linked List/
+├── Trees/
+├── Graphs/
+└── Dynamic Programming/
+
+NeetCode/
+├── Arrays & Hashing/
+├── Two Pointers/
+├── Sliding Window/
+├── Stack/
+├── Binary Search/
+└── ...
 ```
-<topic-folder>/
-  <problem-id>/
-    submission-0.<ext>   ← first submission
-    submission-1.<ext>   ← second submission
-    ...
-```
 
-**Example:**
-```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
-Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
-```
+The exact structure may change as the repository grows.
 
 ---
 
-## Supported languages
+## 🔗 Platforms
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
+* [LeetCode](https://leetcode.com/)
+* [NeetCode](https://neetcode.io/)
 
 ---
 
-## Settings
+## 📌 Note
 
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
+These solutions represent my **learning and problem-solving journey**.
 
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+They may not always be the most optimal solution. Some problems may contain multiple approaches, and I may revisit older solutions as my understanding improves.
+
+> **Keep solving. Keep learning. Keep improving. 🚀**
 
 ---
 
-*Generated by [NeetCode GitHub Integration](https://neetcode.io)*
+### 👨‍💻 Author
+
+**Usama Bin Mahbub**
+
+CSE Student | Competitive Programming Enthusiast | DSA Learner
+
+⭐ If you find something useful here, feel free to explore the repository.
